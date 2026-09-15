@@ -17,14 +17,3 @@ A página foi construída utilizando **HTML, CSS e JavaScript**, com o auxílio 
 * CSS3
 * JavaScript
 * GSAP (ScrollTrigger)
-
-## 🎯 Objetivo do projeto
-
-Criei essa landing page para praticar JavaScript na construção de animações, melhorar meu entendimento sobre manipulação de elementos no DOM e desenvolver interfaces mais dinâmicas e interativas.
-
-## 📂 Como executar o projeto
-
-1. Clone o repositório:
-https://github.com/leonardoricardodev98/Fanta
-
-2. Abra o arquivo `index.html` no navegador
